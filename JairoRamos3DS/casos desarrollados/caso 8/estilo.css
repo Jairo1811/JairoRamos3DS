@@ -1,0 +1,22 @@
+﻿body
+{
+    font-family:Tahoma;
+    margin:5px;
+}
+section{
+    width:600px;
+    background-color:lightblue;
+}
+h1{
+    text-align:center;
+}
+p{
+    padding:10px;
+    text-align:justify;
+}
+img{
+    float:left;
+    padding:10px;
+    width:220px;
+    height:180px;
+}

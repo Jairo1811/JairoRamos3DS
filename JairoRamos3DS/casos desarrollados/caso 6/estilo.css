@@ -1,0 +1,27 @@
+﻿body
+{
+    font-family:Tahoma;
+}
+h1 {
+    position:relative;
+    top: -30px;
+    left: 0px;
+}
+h4 {
+    position:relative;
+    text-align:right;
+    top: -50px;
+    color:#000;
+}
+img {
+    position:relative;
+    top: -60px;
+    width: 180px;
+    height:194px;
+}
+section {
+    width:735px;
+    height:240px;
+    background-color:gainsboro;
+    padding:15px;
+}

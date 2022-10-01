@@ -1,0 +1,10 @@
+﻿header{
+    background-color:gray;
+    border:5px chartreuse;
+    width:770px;
+    height:200px;
+    -khtml-border-radius:10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+}

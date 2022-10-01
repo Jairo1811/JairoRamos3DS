@@ -1,0 +1,27 @@
+﻿body
+{
+    font-family: Tahoma;
+}
+section{
+    width:870px;
+    background-color:aliceblue;
+    padding:10px;
+}
+h1{
+    text-align:center;
+}
+h3{
+    position:absolute;
+    padding:10px;
+    background-color:#000;
+    color:#fff;
+    top:242px;
+    left:300px;
+    z-index:1;
+}
+
+img{
+    position:relative;
+    width:170px;
+    height:194px;
+}
